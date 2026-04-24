@@ -93,7 +93,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section muted">
+      <section className="section muted" id="approach">
         <div className="container">
           <div className="sectionHeader">
             <p className="eyebrow">What I help you do</p>

@@ -72,8 +72,7 @@ main {
   font-weight: 700;
 }
 
-.navLinks a:hover,
-.footerLinks a:hover {
+.navLinks a:hover {
   color: var(--foreground);
 }
 
@@ -342,7 +341,7 @@ h3 {
   color: rgba(255, 255, 255, 0.72);
 }
 
-.siteFooter .footerLinks a:hover {
+.footerLinks a:hover {
   color: white;
 }
 
