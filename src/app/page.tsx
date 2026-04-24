@@ -149,7 +149,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section muted">
+      <section className="section muted" id="approach">
         <div className="container twoColumn">
           <div>
             <p className="eyebrow">Training approach</p>
