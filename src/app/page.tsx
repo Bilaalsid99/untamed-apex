@@ -200,9 +200,13 @@ export default function HomePage() {
             </p>
           </div>
 
-          <a href="mailto:hello@untamedapex.co.uk" className="buttonPrimary">
-            Book initial session
-          </a>
+          <a
+  href="https://calendly.com/owner-siddiqholdings/30min"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Book
+</a>
         </div>
       </section>
     </main>

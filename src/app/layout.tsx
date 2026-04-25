@@ -44,7 +44,14 @@ export default function RootLayout({
             <div className="footerLinks">
               <a href="/#services">Services</a>
               <a href="/#book">Book initial session</a>
-              <a href="mailto:hello@untamedapex.co.uk">Contact</a>
+<a
+  href="https://calendly.com/owner-siddiqholdings/30min"
+  className="buttonPrimary"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Book initial session
+</a>
             </div>
           </div>
         </footer>
